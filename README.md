@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # India's Economy Since Independence
 
 ## Project Overview
@@ -25,3 +26,6 @@ The GitHub repo link: https://github.com/RiddhiGaglani/bee2041-final-project
 ## Data Source
 
 World Bank: https://data.worldbank.org/
+=======
+# bee2041-final-project
+b3cb02315c67d303d87a89546ebc1a1f1ad3aa3b
